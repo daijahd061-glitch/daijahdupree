@@ -49,8 +49,8 @@ Images
 You can also add images to your Github code. Here's the first example, which is almost the same as the links example up above, the only difference is if you add an ! in the beginning.
 ![Tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)
 
-The next example shows you how to make the image take you to another webpage: 
-![Tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)(https://digitalcrafts.instructure.com/login/canvas)
+The next example shows you how to make the image take you to another webpage. Make sure you put reference brackets around the full image code, followed by the parenthesis around the link you want to reference: 
+[![Tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)](https://digitalcrafts.instructure.com/login/canvas)
 
 
 
